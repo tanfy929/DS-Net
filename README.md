@@ -1,2 +1,2 @@
-# EM-Net
- Code for "EM-Net: An Interpretable Network for Lesion Segmentation on Fundus Image".
+# DS-Net
+ Code for "DS-Net: A model driven network framework for lesion segmentation on fundus image".
