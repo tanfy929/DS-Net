@@ -5,7 +5,7 @@ import scipy.io as sio
 import os
 import eyeDataReader_idrid as Crd
 import MyLib as ML
-import EM_UNetplusplus as EM # 根据需要导入不同的网络
+import DS_UNetplusplus as EM # 根据需要导入不同的网络
 import Roc_idrid as Roc
 import warnings
 import argparse

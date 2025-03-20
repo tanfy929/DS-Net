@@ -8,7 +8,7 @@ import os
 import eyeDataReader_ddr as Crd
 import MyLib as ML
 import random
-import EM_UNetplusplus as EM # 根据需要导入不同的网络
+import DS_UNetplusplus as EM # 根据需要导入不同的网络
 from matplotlib import pyplot as plt
 from sklearn.metrics import precision_recall_curve
 import Roc_ddr as Roc

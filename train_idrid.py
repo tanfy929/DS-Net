@@ -8,7 +8,7 @@ import os
 import eyeDataReader_idrid as Crd
 import MyLib as ML
 import random
-import EM_UNetplusplus as EM # 根据需要导入不同网络
+import DS_UNetplusplus as EM # 根据需要导入不同网络
 import warnings
 import argparse
 import torch.optim as optim
